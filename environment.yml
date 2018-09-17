@@ -1,0 +1,10 @@
+name: metaenv
+
+dependencies:
+  - python=3.6
+  - numpy
+  - matplotlib
+  - tensorflow=1.10
+  - jupyter
+  - ipython
+  - seaborn
